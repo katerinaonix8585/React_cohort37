@@ -1,4 +1,3 @@
-import "./style.css";
 import catImage from "./cat.jpg";
 
 function ProfileCard (){
