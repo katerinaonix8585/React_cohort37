@@ -1,0 +1,19 @@
+.main-input {
+    width: 470px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;    
+}
+
+.main-input > label {
+    font-size: 16px;
+    color: #6F6F6F; 
+      
+}
+
+.main-input > input {
+    width: 470px;
+    height: 50px;
+    font-size: 14px;
+    color: #1E1E1E;
+}
