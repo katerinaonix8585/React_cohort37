@@ -1,13 +1,13 @@
-import ProfileCard from "../../components/ProfileCard/ProfileCard";
+import ProfileCard01 from "../../components/ProfileCard/ProfileCard01";
 import "./style.css";
 
 
 function Homework02() {
     return (
         <div>
-          <ProfileCard />
-          <ProfileCard />
-          <ProfileCard />          
+          <ProfileCard01 />
+          <ProfileCard01 />
+          <ProfileCard01 />          
         </div>
       );
 }
